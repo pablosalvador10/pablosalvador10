@@ -10,6 +10,7 @@ I'm particularly interested in Generative AI, always exploring ways to boost pro
 - Principal author & designer of the MLOps accelerator framework at Levi's & Co Tech.
 - Co-wrote and engineered a set of Python SDK's (acting as open-source internally) at Levi's & Co Tech., simplifying ML model integration into software for large enterprises.
 - Designed a state-of-the-art product classification & embedding generation system using advanced Computer Vision algorithms.
+- Took the lead in elevating numerous algorithms to production-grade ML systems within Fortune 500 enterprises! From conception to deployment, every step meticulously crafted and executed.
 
 🛠️ **Projects & Achievements:**
 - **Unified MLOps Tech Stack & Methodology:** Tailored reference architecture for ML projects.
