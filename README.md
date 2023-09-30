@@ -1,4 +1,4 @@
-🚀 **Hello, World! I’m Pablo, a seasoned Full Stack Data Scientist & ML Engineer!**
+ 🚀 **Hello, World! I’m Pablo, a seasoned Full Stack Data Scientist & ML Engineer!**
 
 📚 **About Me:**
 With a rare fusion of software engineering and deep mathematical prowess, I excel in Machine Learning, Big Data, and Cloud Engineering, diligently crafting AI/ML solutions at scale for Fortune 500 giants. As a full-stack AI practicioner, I integrate advanced theory with practical application seamlessly.
@@ -8,7 +8,7 @@ I'm particularly interested in Generative AI, always exploring ways to boost pro
 🌟 **Highlights:**
 - Established & led an MLOps practice, deploying both real-time & batch ML solutions globally.
 - Principal author & designer of the MLOps accelerator framework at Levi's & Co Tech.
-- Co-wrote and engineered a set of Python SDK's (acting as open-source  internally), simplifying ML model integration into software for large enterprises.
+- Co-wrote and engineered a set of Python SDK's (acting as open-source internally) at Levi's & Co Tech., simplifying ML model integration into software for large enterprises.
 - Designed a state-of-the-art product classification & embedding generation system using advanced Computer Vision algorithms.
 
 🛠️ **Projects & Achievements:**
@@ -44,5 +44,8 @@ I'm particularly interested in Generative AI, always exploring ways to boost pro
 👯 **I’m looking to collaborate on:** 
 - Open-source challenges, innovative product ideas, and partnerships with bright beginners and experienced scientists alike.
 
-🔗 **Let’s Connect!**
-Feel free to explore my repositories, and let's collaborate on pushing the boundaries of AI & technology! 💻🌐
+🚀 **Let’s Launch Together!**
+I'm just an email or a LinkedIn message away!
+
+- 💌 **Shoot me an email:** [pablosalvadorlopez11@gmail.com](mailto:pablosalvadorlopez11@gmail.com)
+- 🔗 **LinkedIn:** [Let’s get linked!](https://www.linkedin.com/in/pablosalvadorlopez/?locale=en_US)
