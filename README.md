@@ -1,9 +1,16 @@
  🚀 **Hello, World! I’m Pablo, a seasoned Full Stack Data Scientist & ML Engineer!**
 
 📚 **About Me:**
-With a rare fusion of software engineering and deep mathematical prowess, I excel in Machine Learning, Big Data, and Cloud Engineering, diligently crafting AI/ML solutions at scale for Fortune 500 giants. As a full-stack AI practicioner, I integrate advanced theory with practical application seamlessly.
+I have a mix of software engineering and strong math skills. I'm really good at Machine Learning (just love it), Big Data, and Cloud Engineering, and I work hard crafting AI/ML solutions at scale for Fortune 500 giants. As a full-stack AI practicioner, I integrate advanced theory with practical application seamlessly.
 
 I'm particularly interested in Generative AI, always exploring ways to boost production in large enterprises by developing cost-efficient and scalable solutions.
+
+🌱 **I’m currently learning:** 
+- **Complex Agent-Human Interaction:** Diving deep into the intricate dynamics of how automated agents and humans interact, aiming to enhance the synergy between users and AI-driven systems for optimized outcomes.
+- **Reinforcement Learning Techniques:** Actively exploring and mastering various reinforcement learning strategies, focusing on developing intelligent agents that can adapt and excel in a myriad of environments and scenarios.
+- **Large Language Models (LLM) Evaluation:** Engaged in the systematic evaluation of Large Language Models, understanding their strengths, limitations, and potentials, with particular emphasis on real-world applications and implications.
+- **Latent Diffusion Algorithms:** Delving into the intricacies of latent diffusion algorithms, studying their efficiency, scalability, and performance, with an eye towards harnessing these powerful tools for robust and reliable AI solutions.
+- **Azure Machine Learning prompt flow:** Azure Machine Learning prompt flow is a development tool designed to streamline the entire development cycle of AI applications powered by Large Language Models (LLMs).
 
 🌟 **Highlights:**
 - Established & led an MLOps practice, deploying both real-time & batch ML solutions globally.
@@ -16,13 +23,6 @@ I'm particularly interested in Generative AI, always exploring ways to boost pro
 - **Unified MLOps Tech Stack & Methodology:** Tailored reference architecture for ML projects.
 - **AI-Powered Product Descriptions:** Innovatively used generative AI for personalized content creation with multilingual capabilities.
 - **Real-Time Claim Default Classification:** Led a team to build a production-grade ML system deploying XGBoost models on Azure.
-
-🌱 **I’m currently learning:** 
-- **Complex Agent-Human Interaction:** Diving deep into the intricate dynamics of how automated agents and humans interact, aiming to enhance the synergy between users and AI-driven systems for optimized outcomes.
-- **Reinforcement Learning Techniques:** Actively exploring and mastering various reinforcement learning strategies, focusing on developing intelligent agents that can adapt and excel in a myriad of environments and scenarios.
-- **Large Language Models (LLM) Evaluation:** Engaged in the systematic evaluation of Large Language Models, understanding their strengths, limitations, and potentials, with particular emphasis on real-world applications and implications.
-- **Latent Diffusion Algorithms:** Delving into the intricacies of latent diffusion algorithms, studying their efficiency, scalability, and performance, with an eye towards harnessing these powerful tools for robust and reliable AI solutions.
-- **Azure Machine Learning prompt flow:** Azure Machine Learning prompt flow is a development tool designed to streamline the entire development cycle of AI applications powered by Large Language Models (LLMs).
 
 🔥 **Skills & Technologies:**
 - **Expertise:** AI/ML, Big Data, Cloud Engineering, MLOps
