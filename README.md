@@ -19,29 +19,6 @@ I'm particularly interested in Generative AI, always exploring ways to boost pro
 - Designed a state-of-the-art product classification & embedding generation system using advanced Computer Vision algorithms.
 - Took the lead in elevating numerous algorithms to production-grade ML systems within Fortune 500 enterprises! From conception to deployment, every step meticulously crafted and executed.
 
-🛠️ **Projects & Achievements:**
-- **Unified MLOps Tech Stack & Methodology:** Tailored reference architecture for ML projects.
-- **AI-Powered Product Descriptions:** Innovatively used generative AI for personalized content creation with multilingual capabilities.
-- **Real-Time Claim Default Classification:** Led a team to build a production-grade ML system deploying XGBoost models on Azure.
-
-🔥 **Skills & Technologies:**
-- **Expertise:** AI/ML, Big Data, Cloud Engineering, MLOps
-- **Languages:** Python, Java, Scala
-- **Frameworks:** PyTorch, TensorFlow, Hugging Face, OpenAI
-- **Generative AI Tools:** llama, Chainlint, Langchain
-- **Big Data Technologies:** Spark, Dask
-- **Container & Orchestration:** Docker, Kubernetes
-- **Caching:** Redis
-- **Continuous Integration/Continuous Deployment (CI/CD):** Jenkins, Azure DevOps
-- **Cloud Platforms:** Azure, Google Cloud Platform (GCP)
-- **Azure Technologies:** 
-  - **Machine Learning:** Azure Machine Learning, Azure Databricks
-  - **Data & Analytics:** Azure Synapse Analytics, Azure HDInsight, Azure Data Factory
-  - **AI Services:** Azure Cognitive Services, Azure Bot Service
-  - **Data Storage:** Azure Data Lake Storage (ADLS), Azure Blob Storage, Azure Cosmos DB
-  - **Compute:** Azure Kubernetes Service (AKS), Azure Functions, Azure Virtual Machines
-- **AI/ML Tools:** Vertex AI, Google Kubernetes Engine (GKE), BentoML, MLflow
-
 👯 **I’m looking to collaborate on:** 
 - Open-source challenges, innovative product ideas, and partnerships with bright beginners and experienced scientists alike.
 
