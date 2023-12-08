@@ -17,7 +17,7 @@ I'm particularly interested in Generative AI, always exploring ways to boost pro
 - Principal author & designer of the MLOps accelerator framework at [Levi's & Co Tech](https://www.fortune.com/company/levi-strauss/fortune500/).
 - Co-wrote, developed and engineered a set of Python SDK's (acting as open-source internally) at Levi's & Co Tech., simplifying ML model integration into software for large enterprises.
 - Designed a state-of-the-art product classification & embedding generation system using advanced Computer Vision algorithms.
-- Took the lead in elevating numerous algorithms to production-grade ML systems within Fortune 500 enterprises during my consulting stage at Concentrix! From conception to deployment, every step meticulously crafted and executed.
+- Took the lead in elevating numerous algorithms to production-grade ML systems within Fortune 500 enterprises during my consulting stage at Concentrix! From conception to deployment !
 
 👯 **I’m looking to collaborate on:** 
 - Open-source challenges, innovative product ideas, and partnerships with bright beginners and experienced scientists alike.
