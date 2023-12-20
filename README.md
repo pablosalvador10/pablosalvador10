@@ -10,7 +10,6 @@ I'm particularly interested in Generative AI, always exploring ways to boost pro
 - **Reinforcement Learning Techniques:** Actively exploring and mastering various reinforcement learning strategies, focusing on developing intelligent agents that can adapt and excel in a myriad of environments and scenarios.
 - **Large Language Models (LLM) Evaluation:** Engaged in the systematic evaluation of Large Language Models, understanding their strengths, limitations, and potentials, with particular emphasis on real-world applications and implications.
 - **Latent Diffusion Algorithms:** Delving into the intricacies of latent diffusion algorithms, studying their efficiency, scalability, and performance, with an eye towards harnessing these powerful tools for robust and reliable AI solutions.
-- **Azure Machine Learning prompt flow:** Azure Machine Learning prompt flow is a development tool designed to streamline the entire development cycle of AI applications powered by Large Language Models (LLMs).
 
 🌟 **Highlights:**
 - Established & led an MLOps practice, deploying both real-time & batch ML solutions globally at [Concentrix](https://fortune.com/company/concentrix/fortune500/) consulting services.
