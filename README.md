@@ -7,7 +7,7 @@ I'm particularly interested in Generative AI, always exploring ways to boost pro
 
 🌱 **I’m currently learning:** 
 - **Complex Agent-Human Interaction:** Diving deep into the intricate dynamics of how automated agents and humans interact, aiming to enhance the synergy between users and AI-driven systems for optimized outcomes.
-- **Reinforcement Learning Techniques:** Actively exploring and mastering various reinforcement learning strategies, particularly through (DPO), focusing on fine-tunning SLMs that can adapt and excel in a myriad of environments and scenarios.
+- **Reinforcement Learning Techniques:** Actively exploring and mastering various reinforcement learning strategies, particularly through (DPO), focusing on fine-tunning SLMs that can adapt and excel in a myriad of environments and but in domain specific scenarios.
 - **Large Language Models (LLM) Evaluation:** Engaged in the systematic evaluation of Large Language Models, understanding their strengths, limitations, and potentials, with particular emphasis on real-world applications and implications.
 - **Latent Diffusion Algorithms:** Delving into the intricacies of latent diffusion algorithms, studying their efficiency, scalability, and performance, with an eye towards harnessing these powerful tools for robust and reliable AI solutions.
 
