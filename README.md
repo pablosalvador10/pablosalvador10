@@ -1,9 +1,7 @@
  🚀 **Hello, World! I’m Pablo, a seasoned Full Stack Data Scientist & ML Engineer!**
 
 📚 **About Me:**
-I have a mix of software engineering and strong math skills. I'm really good at Machine Learning (just love it), Big Data, and Cloud Engineering, and I work hard crafting AI/ML solutions at scale for Fortune 500 giants. As a full-stack AI practicioner, I integrate advanced theory with practical application seamlessly.
-
-I'm particularly interested in Generative AI, always exploring ways to boost production in large enterprises by developing cost-efficient and scalable solutions.
+I have a mix of software engineering and strong math skills. I'm really good at Machine Learning (just love it), Big Data, and Cloud Engineering, and I work hard crafting AI/ML solutions at scale for Fortune 500 giants. As a full-stack AI practicioner, I integrate advanced theory with practical application. I'm particularly interested in Generative AI and LLMOps. 
 
 🌱 **I’m currently learning:** 
 - **Complex Agent-Human Interaction:** Diving deep into the intricate dynamics of how automated agents and humans interact, aiming to enhance the synergy between users and AI-driven systems for optimized outcomes.
