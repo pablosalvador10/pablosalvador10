@@ -17,7 +17,7 @@ I have a mix of software engineering and strong math skills. As a full-stack AI 
 - Took the lead in elevating numerous algorithms to production-grade ML systems within Fortune 500 enterprises during my consulting stage at Concentrix! From conception to deployment !
 
 👯 **I’m looking to collaborate on:** 
-- Open-source challenges, innovative product ideas, and partnerships with bright beginners and experienced scientists alike.
+- Open-source challenges, innovative product ideas, and partnerships with bright AI/ML practicioners.
 
 🚀 **Let’s Launch Together!**
 I'm just an email or a LinkedIn message away!
