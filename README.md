@@ -1,7 +1,9 @@
- 🚀 **Hello, World! I’m Pablo, a seasoned Full Stack Data Scientist & ML Engineer!**
+ 🚀 **Hello, World! I’m Pablo, a seasoned Full Stack Data Scientist & ML/AI Engineer!**
 
 📚 **About Me:**
 I have a mix of software engineering and strong math skills. As a full-stack AI practicioner, I integrate advanced theory with practical application and I work hard crafting AI/ML solutions at scale for Fortune 500 giants. I'm particularly interested in Generative AI and LLMOps. 
+
+- 📝 **Check out my blog:** [Pablo's AI Corner](https://pabloaicorner.hashnode.dev/)
 
 🌱 **I’m currently learning:** 
 - **Complex Agent-Human Interaction:** Diving deep into the intricate dynamics of how automated agents and humans interact, aiming to enhance the synergy between users and AI-driven systems for optimized outcomes.
@@ -19,8 +21,12 @@ I have a mix of software engineering and strong math skills. As a full-stack AI 
 👯 **I’m looking to collaborate on:** 
 - Open-source challenges, innovative product ideas, and partnerships with bright AI/ML practicioners.
 
+Here's the updated section with your blog link included:
+
 🚀 **Let’s Launch Together!**
 I'm just an email or a LinkedIn message away!
 
 - 💌 **Shoot me an email:** [pablosalvadorlopez11@gmail.com](mailto:pablosalvadorlopez11@gmail.com)
 - 🔗 **LinkedIn:** [Let’s get linked!](https://www.linkedin.com/in/pablosalvadorlopez/?locale=en_US)
+
+Let me know if that works!
