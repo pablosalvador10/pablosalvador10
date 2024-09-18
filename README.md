@@ -13,8 +13,6 @@ Hey there! I'm thrilled you stopped by my personal repo. Whether you're here to 
   </a>
 </p>
 
----
-
 ### 👨‍💻 **About Me:**  
 I have a mix of software engineering and strong math skills. As a full-stack AI practitioner at @Microsoft, I integrate advanced theory with practical application, and I work hard crafting AI/ML solutions at scale for Fortune 500 giants with a particular focus on Generative AI and LLMOps.
 
@@ -29,6 +27,7 @@ I have a mix of software engineering and strong math skills. As a full-stack AI 
 </details>
 <details>
   <summary><h4>🏆 Career Achievements</h4></summary>
+  
   - Established and led an MLOps practice, deploying both real-time and batch ML solutions globally at [Concentrix](https://fortune.com/company/concentrix/fortune500/) consulting services.
   - Principal author and designer of the MLOps accelerator framework at [Levi's & Co Tech](https://www.fortune.com/company/levi-strauss/fortune500/).
   - Co-authored, developed, and engineered a set of Python SDKs at Levi's & Co Tech, simplifying ML model integration into software for large DS organizations.
