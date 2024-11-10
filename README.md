@@ -13,6 +13,7 @@ Hey there! I'm thrilled you stopped by my personal repo. Whether you're here to 
   </a>
 </p>
 
+
 ### 👨‍💻 **About Me:**  
 I have a mix of software engineering and strong math skills. As a full-stack AI practitioner at @Microsoft, I integrate advanced theory with practical application, and I work hard crafting AI/ML solutions at scale for Fortune 500 giants with a particular focus on Generative AI and LLMOps.
 
