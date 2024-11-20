@@ -5,13 +5,14 @@ Hey there! I'm thrilled you stopped by my personal repo. Whether you're here to 
 <p align="left">
   <!-- Followers Badge -->
   <a href="https://github.com/pablosalvador10?tab=followers">
-    <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/pablosalvador10?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+    <img alt="followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/pablosalvador10?color=236ad3&label=Follow&style=for-the-badge"/>
   </a>
   <!-- Stars Badge -->
   <a href="https://github.com/pablosalvador10?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/pablosalvador10?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+    <img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/pablosalvador10?color=55960c&style=for-the-badge"/>
   </a>
 </p>
+
 
 
 ### 👨‍💻 **About Me:**  
