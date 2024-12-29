@@ -43,14 +43,18 @@ I have a mix of software engineering and strong math skills. As a full-stack AI 
 
 **Check out my blog:** [Pablo's AI Corner](https://pabloaicorner.hashnode.dev/)
 
+- [**Effective LLM/SLM Evaluation Framework**](https://pabloaicorner.hashnode.dev/building-an-effective-enterprise-llmslm-evaluation-framework-key-strategies-and-tools)  
+  Discover strategies for evaluating large and small language models in enterprise settings.
+
+- [**Streamlining Prior Authorization with Generative AI**](https://pabloaicorner.hashnode.dev/streamlining-prior-authorization-with-generative-ai)  
+  Discover how **AutoAuth**, an AI-driven solution, is transforming prior authorization workflows. 
+
 - [**Modernize Your Document Management with Azure AI**](https://pabloaicorner.hashnode.dev/modernize-your-document-management-with-azure-ai-and-generative-ai-advance-ocr-intelligent-tagging-and-ner)  
   Learn how to enhance OCR, intelligent tagging, and NER with Azure AI.
   
 - [**Key Technical Challenges in GenAI Production**](https://pabloaicorner.hashnode.dev/key-technical-challenges-while-transitioning-genai-applications-to-production)  
   Explore key hurdles when transitioning Generative AI applications to production.
   
-- [**Effective LLM/SLM Evaluation Framework**](https://pabloaicorner.hashnode.dev/building-an-effective-enterprise-llmslm-evaluation-framework-key-strategies-and-tools)  
-  Discover strategies for evaluating large and small language models in enterprise settings.
 
 # 
 
