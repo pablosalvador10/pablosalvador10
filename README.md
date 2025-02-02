@@ -60,7 +60,7 @@ I have a mix of software engineering and strong math skills. As a full-stack AI 
 
 ### 🚀 **Let’s Build Together!**
 
-I’m looking to collaborate on Open-source challenges, innovative product ideas, and partnerships with bright AI/ML practicioners.
+I’m always open to collaborate on Open-source challenges, innovative product ideas, and partnerships with bright AI/ML practicioners.
 
 - 💌 **Shoot me an email:** [pablosalvadorlopez11@gmail.com](mailto:pablosalvadorlopez11@gmail.com)
 - 🔗 **LinkedIn:** [Let’s get linked!](https://www.linkedin.com/in/pablosalvadorlopez/?locale=en_US)
