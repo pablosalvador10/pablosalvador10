@@ -1,6 +1,6 @@
 # 👋 **Welcome AI Practitioner!**
 
-Hey there! I'm thrilled you stopped by my personal repo. Whether you're here to explore some cool AI projects, collaborate, or just check out what I’ve been working on, I’m excited to share it with you!
+Hey there! Nice to see you around here. Whether you're here to explore some cool AI projects, collaborate, or just check out what I’ve been working on, I’m excited to share it with you!
 
 <p align="left">
   <!-- Followers Badge -->
