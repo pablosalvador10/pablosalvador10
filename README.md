@@ -16,7 +16,8 @@ Hey there! Nice to see you around here. Whether you're here to explore some cool
 
 
 ### 👨‍💻 **About Me:**  
-I have a mix of software engineering and strong math skills. As a full-stack AI practitioner at @Microsoft, I integrate advanced theory with practical application, and I work hard crafting AI/ML solutions at scale for Fortune 500 giants with a particular focus on Generative AI and LLMOps.
+As Microsoft’s full-stack AI architect, I fuse deep math with hardcore sofware engineering to launch agentic GenAI solutions that Fortune 500 teams actually use. I turn white-paper theory into revenue-scale AI.
+My day-to-day I’m elbows-deep in Generative AI, multi-agent orchestration, and LLMOps—writing the code, shaping the roadmap, and coaching the next wave of builders.
 
 <details>
   <summary><h4>🔍 What I’m currently working on</h4></summary>
