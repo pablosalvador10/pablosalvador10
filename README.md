@@ -27,17 +27,19 @@ I have a mix of software engineering and strong math skills. As a full-stack AI 
   - **Large Language Models (LLM) Evaluation:** Engaged in the systematic evaluation of Large Language Models, understanding their strengths, limitations, and potential, with particular emphasis on real-world applications and implications.
   - **Latent Diffusion Algorithms:** Delving into the intricacies of latent diffusion algorithms, studying their efficiency, scalability, and performance, with an eye toward harnessing these powerful tools for robust and reliable AI solutions.
 </details>
+
 <details>
   <summary><h4>🏆 Career Achievements</h4></summary>
-  
+  - **HLS Ignited Accelerator** — Founded & led program delivering **8 GenAI solutions** (doc ingestion, clinical-trial matching, RCM optimization), touching **M+ patients/members**.  
+  - **AutoAuth Multi-Agent Framework Prior Auth** — **TAT ↓ 70 %**, accuracy ↑ 4 %.  
+  - **RTAgent** — Sub-600 ms streaming voice Agentic AI.
+  - Adjunct instructor, **Northwestern MSAI**—teaching Agentic RAG & LLMOps.
   - Established and led an MLOps practice, deploying both real-time and batch ML solutions globally at [Concentrix](https://fortune.com/company/concentrix/fortune500/) consulting services.
   - Principal author and designer of the MLOps accelerator framework at [Levi's & Co Tech](https://www.fortune.com/company/levi-strauss/fortune500/).
   - Co-authored, developed, and engineered a set of Python SDKs at Levi's & Co Tech, simplifying ML model integration into software for large DS organizations.
   - Designed a state-of-the-art product classification and embedding generation system using advanced Computer Vision algorithms.
   - Led multiple algorithms to production-grade ML systems within Fortune 500 enterprises during my consulting stage at Concentrix, from concept to deployment.
 </details>
-
-# 
 
 ### 📚 Latest Blog Posts 
 
