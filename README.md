@@ -16,7 +16,7 @@ Hey there! Nice to see you around here. Whether you're here to explore some cool
 
 
 ### 👨‍💻 **About Me:**  
-As a full-stack AI architect in Microsoft’s Global Black Belt AI team, I fuse deep math with hardcore software engineering to launch agentic GenAI solutions that Fortune 500 teams actually use. I turn white-paper theory into revenue-scale AI. Day to day, I’m elbows-deep in Generative AI, multi-agent orchestration, and LLMOps—writing code, shaping the roadmap, and coaching the next wave of builders.
+As a Principal full-stack AI architect in Microsoft’s Global Black Belt AI team, I fuse deep math with hardcore software engineering to launch agentic GenAI solutions that Fortune 500 teams actually use. I turn white-paper theory into revenue-scale AI. Day to day, I’m elbows-deep in Generative AI, multi-agent orchestration, and LLMOps—writing code, shaping the roadmap, and coaching the next wave of builders.
 
 <details>
   <summary><h4>🔍 What I’m currently working on</h4></summary>
