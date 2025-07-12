@@ -16,7 +16,7 @@ Hey there! Nice to see you around here. Whether you're here to explore some cool
 
 
 ### 👨‍💻 **About Me:**  
-I work at Microsoft in the Global Black Belt AI team as a Principal AI & Application Development Architect. I combine ai, machine learning, data, and software engineering to build agentic GenAI systems that Fortune 500 teams actually use. I turn white-paper theory into production-ready AI—elbows-deep in Generative AI, multi-agent orchestration, and LLMOps. Most days, I’m writing code, shaping strategy, and mentoring the next wave of builders.
+I work at Microsoft in the Global Black Belt AI team as a Principal AI & Application Development Architect. I combine AI, Machine Learning, Data, and software engineering to build agentic GenAI systems that Fortune 500 teams actually use. I turn white-paper theory into production-ready AI—elbows-deep in Generative AI, multi-agent orchestration, and LLMOps. Most days, I’m writing code, shaping strategy, and mentoring the next wave of builders.
 
 <details>
   <summary><h4>🔍 What I’m currently working on</h4></summary>
