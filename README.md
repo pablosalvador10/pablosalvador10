@@ -49,6 +49,14 @@ I work at Microsoft in the Global Black Belt AI team as a Principal AI & Applica
   <strong>▶️ <a href="https://www.youtube.com/watch?v=eJ_eS-V_Bvk" target="_blank">Watch the full demo on YouTube</a></strong>
 </div>
 
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=H_uAA5_h40E" target="_blank">
+    <img src="https://github.com/pablosalvador10/gbb-ai-agenticrag/blob/9997a65135bdac229f6c48995ea00003534a9296/utils/images/youtube.png?raw=true" width="600"/>
+  </a>
+  <br>
+  <strong>▶️ <a href="https://www.youtube.com/watch?v=H_uAA5_h40E" target="_blank">Watch the full demo on YouTube</a></strong>
+</div>
+
 ### **🧠 Fresh Ideas & Recent Project**
 
 #### **🧑‍💻 My Dev Space**
