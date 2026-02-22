@@ -8,7 +8,6 @@ Building AI-native systems at the intersection of applied research and productio
 
 [![GitHub followers](https://img.shields.io/github/followers/pablosalvador10?style=flat&logo=github&label=Follow&color=181717)](https://github.com/pablosalvador10?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/pablosalvador10?style=flat&logo=github&label=Stars&color=181717)](https://github.com/pablosalvador10?tab=repositories&sort=stargazers)
-[![Blog](https://img.shields.io/badge/Blog-Pablo's%20AI%20Corner-0A0A0A?style=flat&logo=hashnode&logoColor=white)](https://pabloaicorner.hashnode.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/pablosalvadorlopez/?locale=en_US)
 
 </div>
