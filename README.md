@@ -1,90 +1,97 @@
-# 👋 **Welcome AI Practitioner!**
-
-Hey there! Nice to see you around here. Whether you're here to explore some cool AI projects, collaborate, or just check out what I’ve been working on, I’m excited to share it with you!
-
-<p align="left">
-  <!-- Followers Badge -->
-  <a href="https://github.com/pablosalvador10?tab=followers">
-    <img alt="followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/pablosalvador10?color=236ad3&label=Follow&style=for-the-badge"/>
-  </a>
-  <!-- Stars Badge -->
-  <a href="https://github.com/pablosalvador10?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/pablosalvador10?color=55960c&style=for-the-badge"/>
-  </a>
-</p>
-
-
-
-### 👨‍💻 **About Me:**  
-As a Senior Principal Software Engineer in Microsoft’s Forward Deployment Engineering (FDE) team, I build AI-native systems alongside some of the world’s most advanced organizations, partnering deeply on high-stakes, high-complexity deployments where edge cases are the norm. My work sits at the intersection of software engineering, applied research, and production delivery always grounded in a strong ROI-driven mindset. Focus on building things that matters at scale.
-
-<details>
-  <summary><h4>🔍 What I’m currently working on</h4></summary>
-
-  - **Secure Real-Time Voice Agents:** Architecting HIPAA-grade, end-to-end-encrypted speech-to-speech pipelines that keep PHI safe while enabling sub-second agentic conversations.
-  - **Agentic Protocols & Control Planes:** Designing open communication standards (MCP, A2A) and mapping them onto Azure AI Foundry’s multi-agent control planes for seamless agent hand-offs.
-  - **Production Agentic Memory Layers:** Building hierarchical short-/long-term memory that persist and retrieve context across agent invocations in mission-critical flows.
-  - **LLM-App Evaluation & LLMOps:** Creating end-to-end evaluation harnesses to track latency, cost, alignment, and quality of multi-agent GenAI applications before and after release.
-
-</details>
-
-<details>
-  <summary><h4>🏆 Career Highlights</h4></summary>
-  
-  - **Founder of [AI HLS Ignited](https://github.com/microsoft/aihlsIgnited)** — Created and led the flagship accelerator program at Microsoft, empowering the HLS industry across live technical webinars and GitHub-first assets. The program is catalyzing **real-world GenAI adoption** across provider, payor, and   life science orgs through hands-on labs and applied use cases.
-  - **Northwestern Adjunct Instructor** — Teaching cloud computing and AI to the next wave of leaders in the MSAI graduate program.
-  - **Established and led an MLOps practice**, deploying both real-time and batch ML solutions globally at [Concentrix](https://fortune.com/company/concentrix/fortune500/) consulting services.
-    - Led multiple algorithms to production-grade ML systems within Fortune 500 enterprises during my consulting stage at Concentrix, from concept to deployment.
-  - Principal author and designer of the MLOps accelerator framework at [Levi's & Co Tech](https://www.fortune.com/company/levi-strauss/fortune500/).
-    - Co-authored, developed, and engineered a set of Python SDKs at Levi's & Co Tech, simplifying ML model integration into software for large DS organizations.
-    - Designed a state-of-the-art product classification and embedding generation system using advanced Computer Vision algorithms.
-  
-</details>
-
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=eJ_eS-V_Bvk" target="_blank">
-    <img src="https://github.com/pablosalvador10/gbb-ai-agenticrag/blob/9997a65135bdac229f6c48995ea00003534a9296/utils/images/youtube.png?raw=true" width="600"/>
-  </a>
-  <br>
-  
-</div>
-<br>
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=H_uAA5_h40E" target="_blank">
-    <img src="https://github.com/pablosalvador10/pablosalvador10/blob/main/utils/images/voiceagents.png" width="600"/>
-  </a>
-  <br>
+
+# Pablo Salvador Lopez
+
+**Senior Principal Software Engineer @ Microsoft**
+
+Building AI-native systems at the intersection of applied research and production delivery.
+
+[![GitHub followers](https://img.shields.io/github/followers/pablosalvador10?style=flat&logo=github&label=Follow&color=181717)](https://github.com/pablosalvador10?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/pablosalvador10?style=flat&logo=github&label=Stars&color=181717)](https://github.com/pablosalvador10?tab=repositories&sort=stargazers)
+[![Blog](https://img.shields.io/badge/Blog-Pablo's%20AI%20Corner-0A0A0A?style=flat&logo=hashnode&logoColor=white)](https://pabloaicorner.hashnode.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/pablosalvadorlopez/?locale=en_US)
+
 </div>
 
-### **🧠 Fresh Ideas & Recent Project**
+---
 
-#### **🧑‍💻 My Dev Space**
+## About
 
-- **[MedIndexer](https://github.com/Azure-Samples/aihlsignited-medindexer)** — Transform fragmented clinical documents into **schema-driven, high-value knowledge stores** using Azure AI Search and AOAI.
-- **[MedEvals](https://github.com/Azure-Samples/aihlsignited-medevals)** — Benchmark LLM/SLM models at scale with **multi-metric evaluation, real-world datasets**, and **LLM-as-a-Judge** methods.
-- **[MedAgenticR&D](https://github.com/microsoft/aihlsIgnited/tree/main/hlsignited/FY25/03-Extraction-and-Summarization-Clinical-Info)** — Enable dynamic multi-agent RAG across structured and unstructured data using **Semantic Kernel + Azure AI Agents**.
-- **[AutoAuth](https://github.com/Azure-Samples/autoauth-solution-accelerator)** — Cut **prior auth turnaround by 70%** with a modular agentic system integrating LLMs, OCR, and policy reasoning.
-- **MedCoding** — Built a multi-agent workflow to extract, validate, and map ICD-10 codes, **improving billing accuracy and reducing fraud**.
-- **RTAgent** — Deployed real-time voice-to-voice AI pipelines using **Azure Speech, OpenAI, and Redis**, tailored for healthcare call centers.
+I work on Microsoft's Forward Deployment Engineering (FDE) team, partnering with the world's most advanced organizations on high-stakes, high-complexity AI deployments where edge cases are the norm. My focus: **building things that matter at scale**, always grounded in a strong ROI-driven mindset.
 
-#### **✍️ Latest Articles**
+> *"Software engineering × applied research × production delivery."*
+
+---
+
+## Current Work
+
+| Area | Description |
+|---|---|
+| **Secure Real-Time Voice Agents** | HIPAA-grade, E2E-encrypted speech-to-speech pipelines — sub-second agentic conversations with PHI safety |
+| **Agentic Protocols & Control Planes** | Open communication standards (MCP, A2A) mapped onto Azure AI Foundry multi-agent control planes |
+| **Production Memory Layers** | Hierarchical short-/long-term memory that persists context across agent invocations in mission-critical flows |
+| **LLMOps & Evaluation** | End-to-end evaluation harnesses tracking latency, cost, alignment, and quality for multi-agent GenAI apps |
+
+---
+
+## Featured Projects
+
+| Project | What it does |
+|---|---|
+| [**MedIndexer**](https://github.com/Azure-Samples/aihlsignited-medindexer) | Transforms fragmented clinical documents into schema-driven knowledge stores using Azure AI Search + AOAI |
+| [**MedEvals**](https://github.com/Azure-Samples/aihlsignited-medevals) | Benchmarks LLM/SLM models at scale with multi-metric evaluation and LLM-as-a-Judge methods |
+| [**MedAgenticR&D**](https://github.com/microsoft/aihlsIgnited/tree/main/hlsignited/FY25/03-Extraction-and-Summarization-Clinical-Info) | Dynamic multi-agent RAG across structured + unstructured data via Semantic Kernel + Azure AI Agents |
+| [**AutoAuth**](https://github.com/Azure-Samples/autoauth-solution-accelerator) | Cuts prior auth turnaround by 70% with agentic LLMs, OCR, and policy reasoning |
+| **MedCoding** | Multi-agent workflow to extract, validate, and map ICD-10 codes — improving billing accuracy |
+| **RTAgent** | Real-time voice-to-voice AI pipelines (Azure Speech, OpenAI, Redis) for healthcare call centers |
+
+---
+
+## Talks
+
+<div align="center">
+
+<a href="https://www.youtube.com/watch?v=eJ_eS-V_Bvk" target="_blank">
+  <img src="https://github.com/pablosalvador10/gbb-ai-agenticrag/blob/9997a65135bdac229f6c48995ea00003534a9296/utils/images/youtube.png?raw=true" width="560" alt="Agentic RAG Talk"/>
+</a>
+
+<br/><br/>
+
+<a href="https://www.youtube.com/watch?v=H_uAA5_h40E" target="_blank">
+  <img src="https://github.com/pablosalvador10/pablosalvador10/blob/main/utils/images/voiceagents.png?raw=true" width="560" alt="Voice Agents Talk"/>
+</a>
+
+</div>
+
+---
+
+## Writing
 
 - [**Building AI-Powered Clinical Knowledge Stores with Azure AI Search**](https://techcommunity.microsoft.com/blog/healthcareandlifesciencesblog/building-ai-powered-clinical-knowledge-stores-with-azure-ai-search/4405073)
-- [**Streamlining Prior Authorization with Generative AI**](https://pabloaicorner.hashnode.dev/streamlining-prior-authorization-with-generative-ai)  
-  Learn how **AutoAuth** reshapes PA workflows with agentic AI.
-- [**Key Technical Challenges in GenAI Production**](https://pabloaicorner.hashnode.dev/key-technical-challenges-while-transitioning-genai-applications-to-production)  
-  Explore real-world blockers in scaling GenAI solutions.
-- [**Effective LLM/SLM Evaluation Framework**](https://pabloaicorner.hashnode.dev/building-an-effective-enterprise-llmslm-evaluation-framework-key-strategies-and-tools)  
-  A roadmap for scalable, trustworthy LLM evaluation.
-- [**Modernize Your Document Management with Azure AI**](https://pabloaicorner.hashnode.dev/modernize-your-document-management-with-azure-ai-and-generative-ai-advance-ocr-intelligent-tagging-and-ner)  
-  From OCR to NER—supercharge unstructured data workflows.
+- [**Streamlining Prior Authorization with Generative AI**](https://pabloaicorner.hashnode.dev/streamlining-prior-authorization-with-generative-ai) — How AutoAuth reshapes PA workflows with agentic AI
+- [**Key Technical Challenges in GenAI Production**](https://pabloaicorner.hashnode.dev/key-technical-challenges-while-transitioning-genai-applications-to-production) — Real-world blockers in scaling GenAI solutions
+- [**Effective LLM/SLM Evaluation Framework**](https://pabloaicorner.hashnode.dev/building-an-effective-enterprise-llmslm-evaluation-framework-key-strategies-and-tools) — A roadmap for scalable, trustworthy LLM evaluation
+- [**Modernize Your Document Management with Azure AI**](https://pabloaicorner.hashnode.dev/modernize-your-document-management-with-azure-ai-and-generative-ai-advance-ocr-intelligent-tagging-and-ner) — From OCR to NER, supercharging unstructured data workflows
 
-### 🚀 **Let’s Build Together!**
+---
 
-I’m always open to collaborate on Open-source challenges, innovative product ideas, and partnerships with bright AI/ML practicioners.
+## Background
 
-- 💌 **Shoot me an email:** [pablosalvadorlopez11@gmail.com](mailto:pablosalvadorlopez11@gmail.com)
-- 🔗 **LinkedIn:** [Let’s get linked!](https://www.linkedin.com/in/pablosalvadorlopez/?locale=en_US)
-- ✍️ **My Blog:** [Pablo's AI Corner](https://pabloaicorner.hashnode.dev/)
+- **Founder of [AI HLS Ignited](https://github.com/microsoft/aihlsIgnited)** — Microsoft's flagship HLS accelerator, catalyzing real-world GenAI adoption across provider, payor, and life science organizations through hands-on labs and applied use cases.
+- **Northwestern Adjunct Instructor** — Teaching cloud computing and AI in the MSAI graduate program.
+- **MLOps Practice Lead** at [Concentrix](https://fortune.com/company/concentrix/fortune500/) — Deployed real-time and batch ML solutions globally; shipped production-grade systems for Fortune 500 enterprises.
+- **MLOps Accelerator Architect** at [Levi's & Co Tech](https://www.fortune.com/company/levi-strauss/fortune500/) — Co-authored Python SDKs for ML model integration, designed state-of-the-art product classification and embedding generation systems.
 
+---
 
+<div align="center">
+
+**Let's build together.**
+
+Open to collaborations on open-source challenges, innovative product ideas, and partnerships with sharp AI/ML practitioners.
+
+[![Email](https://img.shields.io/badge/Email-pablosalvadorlopez11@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:pablosalvadorlopez11@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pablosalvadorlopez-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablosalvadorlopez/?locale=en_US)
+[![Blog](https://img.shields.io/badge/Blog-Pablo's%20AI%20Corner-2962FF?style=flat&logo=hashnode&logoColor=white)](https://pabloaicorner.hashnode.dev/)
+
+</div>
