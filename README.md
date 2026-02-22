@@ -9,6 +9,7 @@ Building AI-native systems at the intersection of applied research and productio
 [![GitHub followers](https://img.shields.io/github/followers/pablosalvador10?style=flat&logo=github&label=Follow&color=181717)](https://github.com/pablosalvador10?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/pablosalvador10?style=flat&logo=github&label=Stars&color=181717)](https://github.com/pablosalvador10?tab=repositories&sort=stargazers)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/pablosalvadorlopez/?locale=en_US)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=flat&logo=youtube)](https://www.youtube.com/@PablosAICorner)
 
 </div>
 
@@ -34,14 +35,19 @@ I work on Microsoft's Forward Deployment Engineering (FDE) team, partnering with
 
 <div align="center">
 <table><tr>
-<td align="center" width="50%">
+<td align="center" width="33%">
 <a href="https://www.youtube.com/watch?v=eJ_eS-V_Bvk" target="_blank">
   <img src="https://github.com/pablosalvador10/gbb-ai-agenticrag/blob/9997a65135bdac229f6c48995ea00003534a9296/utils/images/youtube.png?raw=true" width="100%" alt="Agentic RAG Talk"/>
 </a>
 </td>
-<td align="center" width="50%">
+<td align="center" width="33%">
 <a href="https://www.youtube.com/watch?v=H_uAA5_h40E" target="_blank">
   <img src="https://github.com/pablosalvador10/pablosalvador10/blob/main/utils/images/voiceagents.png?raw=true" width="100%" alt="Voice Agents Talk"/>
+</a>
+</td>
+<td align="center" width="33%">
+<a href="https://www.youtube.com/watch?v=lldgWh1a83w" target="_blank">
+  <img src="https://img.youtube.com/vi/lldgWh1a83w/maxresdefault.jpg" width="100%" alt="Talk"/>
 </a>
 </td>
 </tr></table>
