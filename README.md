@@ -53,6 +53,7 @@ I work on Microsoft's Forward Deployment Engineering (FDE) team, partnering with
 
 I write about the stuff I build and the problems I run into along the way.
 
+- [**The Hard Part of Software Is Never the Coding**](https://www.linkedin.com/pulse/hard-part-software-never-coding-pablo-salvador-lopez-iik6c/) — what actually makes shipping hard
 - [**AI-Powered Clinical Knowledge Stores**](https://techcommunity.microsoft.com/blog/healthcareandlifesciencesblog/building-ai-powered-clinical-knowledge-stores-with-azure-ai-search/4405073) — turning messy clinical docs into searchable knowledge
 - [**Prior Auth + GenAI**](https://pabloaicorner.hashnode.dev/streamlining-prior-authorization-with-generative-ai) — how we cut turnaround by 70% with agentic AI
 - [**GenAI Production Challenges**](https://pabloaicorner.hashnode.dev/key-technical-challenges-while-transitioning-genai-applications-to-production) — real blockers, not theoretical ones
