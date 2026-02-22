@@ -7,7 +7,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/pablosalvadorlopez/?locale=en_US)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=flat&logo=youtube)](https://www.youtube.com/@PablosAICorner)
 
-
 ## About
 
 I work on Microsoft's Forward Deployment Engineering (FDE) team, partnering with the world's most advanced organizations on high-stakes, high-complexity AI deployments where edge cases are the norm. My focus: building things that matter at scale, always grounded in a strong ROI-driven mindset.
