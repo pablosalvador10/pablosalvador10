@@ -1,11 +1,11 @@
-<div align="center">
-
-# Pablo Salvador Lopez
+<div align=center">
 
 [![GitHub followers](https://img.shields.io/github/followers/pablosalvador10?style=flat&logo=github&label=Follow&color=181717)](https://github.com/pablosalvador10?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/pablosalvador10?style=flat&logo=github&label=Stars&color=181717)](https://github.com/pablosalvador10?tab=repositories&sort=stargazers)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/pablosalvadorlopez/?locale=en_US)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=flat&logo=youtube)](https://www.youtube.com/@PablosAICorner)
+
+</div>
 
 ## About
 
