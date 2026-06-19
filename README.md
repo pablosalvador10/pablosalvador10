@@ -9,7 +9,7 @@
 
 ## About
 
-I work on Microsoft's Forward Deployment Engineering (FDE) team, partnering with the world's most advanced organizations on high-stakes, high-complexity AI deployments where edge cases are the norm. My focus: building things that matter at scale, always grounded in a strong ROI-driven mindset.
+I work on Microsoft's Forward Deployment Engineering (FDE) DELTA team, partnering with the world's most advanced organizations on high-stakes, high-complexity AI deployments where edge cases are the norm. My focus: building things that matter at scale, always grounded in a strong ROI-driven mindset.
 
 ---
 
